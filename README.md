@@ -70,7 +70,7 @@
 ## 🌐 Connect With Me
 
 - 🌍 Portfolio: [Ali Gadit](https://my-portfolio-two-nu-51.vercel.app)
-- 💼 LinkedIn: [muhammad-ali-gadit](https://www.linkedin.com/in/muhammad-ali-gadit-07932b2b9/)
+- 💼 LinkedIn: [muhammad-ali-gadit](https://www.linkedin.com/in/muhammad-ali-gadit)
 - 🐦 X (Twitter): [@Ali__Gadit](https://x.com/Ali__Gadit)
 - 📫 Gmail : muhammadaligadit@gmail.com
 ---
